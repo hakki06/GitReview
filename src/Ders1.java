@@ -8,6 +8,9 @@ public static void main(String[] args) {
 	System.out.println("Saat 18:46");
 	System.out.println("Saat 19:00");
 	
+	
 	System.out.println("Saat 19:17-hasanbey");
+	
+	System.out.println("Saat 19:17-marascan");
 }
 }
